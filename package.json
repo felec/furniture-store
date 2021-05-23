@@ -1,9 +1,9 @@
 {
   "name": "furniture-store",
-  "homepage": "https://felec.github.io/furniture-store",
+  "homepage": "https://felec.github.io/comfy-house",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
